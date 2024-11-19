@@ -4,7 +4,7 @@
 
 Ayoo 🤙, I’m a Computer Science student trying to learn AWS technologies ☁️. I’m also jumping between backend and frontend basics—kinda just have <i>lingaw-lingaw</i> while learning.
 <br><br>
-So, below are them few technologies I'm proficient in:
+So, below are them technologies I currently use:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
