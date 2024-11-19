@@ -22,7 +22,7 @@ So, below are them technologies I currently use:
 
 Find me here!
 <br><br>
-[![Linkedin Badge](https://img.shields.io/badge/-justinveloso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/ThatDot/)
+[![Linkedin Badge](https://img.shields.io/badge/-justinveloso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-veloso-21395b27b/)](https://www.linkedin.com/in/justin-veloso-21395b27b/)
 [![Facebook Badge](https://img.shields.io/badge/-justinveloso-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/thatdot44/)](https://facebook.com/thatdot44/)
 [![Instagram Badge](https://img.shields.io/badge/-dotveloso-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/dotveloso)
 [![Gmail Badge](https://img.shields.io/badge/-justinsanveloso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:justinsanveloso@gmail.com)](mailto:justinsanveloso@gmail.com)
