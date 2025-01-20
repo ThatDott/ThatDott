@@ -2,9 +2,9 @@
 
 `(2nd-Year BSCS, Software Developer In Progress)`
 
-Ayoo 🤙, I’m a Computer Science student trying to learn AWS technologies ☁️. I’m also jumping between backend and frontend basics—kinda just have <i>lingaw-lingaw</i> while learning.
+Ayoo 🤙, I’m a Computer Science student trying to learn all sorts of new technology. I’m jumping between different areas of programming as I am still learning which path best suits me.
 <br><br>
-So, below are them technologies I currently use:
+So anyhow, below are the technologies I currently use:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
