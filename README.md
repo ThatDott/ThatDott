@@ -15,6 +15,7 @@ So anyhow, below are the technologies I currently use:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 <br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
