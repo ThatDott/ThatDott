@@ -30,3 +30,4 @@ Find me here!
 
 ![ThatDott's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatDott&theme=great-gatsby&show_icons=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thatdott&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
