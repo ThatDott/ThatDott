@@ -2,9 +2,9 @@
 
 `(2nd-Year BSCS, Software Developer In Progress)`
 
-Ayoo 🤙, I’m a Computer Science student trying to learn all sorts of new technology. I’m jumping between different areas of programming as I am still learning which path best suits me.
+Wassup dawg, I'm Justin and I love to learn different aspects of programming and software development.
 <br><br>
-So anyhow, below are the technologies I currently use:
+Below are the tech I use:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -16,10 +16,14 @@ So anyhow, below are the technologies I currently use:
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![CockroachDB](https://img.shields.io/badge/-CockroachDB-black?style=flat-square&logo=cockroachdb)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=sqlalchemy)
+![Alembic](https://img.shields.io/badge/-Alembic-black?style=flat-square&logo=alembic)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-web-services)
 <br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 Find me here!
 <br><br>
