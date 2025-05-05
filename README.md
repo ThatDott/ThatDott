@@ -2,7 +2,7 @@
 
 `(2nd-Year BSCS, Software Developer In Progress)`
 
-Wassup dawg, I'm Justin and I love to learn different aspects of programming and software development.
+Wassup dawg!
 <br><br>
 Below are the tech I use:
 
