@@ -1,12 +1,13 @@
-<img src="https://i.gifer.com/1MXw.gif" width="300" />
+<img src="https://media.tenor.com/nUolmeC7l14AAAAi/dog-meme.gif" width="100" />
 
-# 🍳 ThatDott
+# ThatDott
 `(2nd-Year BSCS, Software Developer In Progress)`
 
 Wassup dawg!
 <br><br>
-Below are the tech I use:
+My Skillset:
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
