@@ -1,5 +1,6 @@
-# 🤹 ThatDott
+<img src="https://i.gifer.com/1MXw.gif" width="300" />
 
+# 🍳 ThatDott
 `(2nd-Year BSCS, Software Developer In Progress)`
 
 Wassup dawg!
@@ -32,6 +33,4 @@ Find me here!
 [![Instagram Badge](https://img.shields.io/badge/-dotveloso-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/dotveloso)
 [![Gmail Badge](https://img.shields.io/badge/-justinsanveloso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:justinsanveloso@gmail.com)](mailto:justinsanveloso@gmail.com)
 
-![ThatDott's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatDott&theme=great-gatsby&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thatdott&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![ThatDott's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatDott&theme=transparent&show_icons=true&hide_border=true&hide_title=true&ring_color=ffffff&icon_color=ffffff&text_color=ffffff)
