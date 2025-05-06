@@ -1,7 +1,7 @@
 <img src="https://media.tenor.com/nUolmeC7l14AAAAi/dog-meme.gif" width="100" />
 
 # ThatDott
-`(2nd-Year BSCS, Software Developer In Progress)`
+`(2nd-Year BSCS, Aspiring Software Developer)`
 
 Wassup dawg!
 <br><br>
