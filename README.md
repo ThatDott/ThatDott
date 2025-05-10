@@ -31,7 +31,11 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
 
-  <h3>Find me here!</h3>
+  <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=ThatDott&theme=transparent&card_height=150&show_icons=true&hide_border=false&hide_title=true&ring_color=ffffff&icon_color=ffffff&text_color=ffffff" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ThatDott&theme=transparent&border_radius=4.6&card_width=466&card_height=150&stroke=EBEBEB&ring=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&fire=EB8E00&sideNums=EBEBEB&dates=EBEBEB&border=EBEBEB&excludeDaysLabel=EBEBEB" />
+
+<br />
   <a href="https://www.linkedin.com/in/justin-veloso-21395b27b/">
     <img src="https://img.shields.io/badge/-justinveloso-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
@@ -43,14 +47,6 @@
   </a>
   <a href="mailto:justinsanveloso@gmail.com">
     <img src="https://img.shields.io/badge/-justinsanveloso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-
-  <br>  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ThatDott&theme=transparent&show_icons=true&hide_border=false&hide_title=true&ring_color=ffffff&icon_color=ffffff&text_color=ffffff" />
-
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ThatDott&theme=transparent&border_radius=4.6&card_width=466&stroke=EBEBEB&ring=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&fire=EB8E00&sideNums=EBEBEB&dates=EBEBEB&border=EBEBEB&excludeDaysLabel=EBEBEB" />
   </a>
 
 </div>
