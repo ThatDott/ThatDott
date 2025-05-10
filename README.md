@@ -36,4 +36,4 @@ Find me here!
 
 ![ThatDott's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatDott&theme=transparent&show_icons=true&hide_border=false&hide_title=true&ring_color=ffffff&icon_color=ffffff&text_color=ffffff)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThatDott&theme=transparent&border_radius=4.6&stroke=EBEBEB&ring=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&fire=EB8E00&sideNums=EBEBEB&dates=EBEBEB&border=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThatDott&theme=transparent&border_radius=4.6&card_width=466&stroke=EBEBEB&ring=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&fire=EB8E00&sideNums=EBEBEB&dates=EBEBEB&border=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
