@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.tenor.com/nUolmeC7l14AAAAi/dog-meme.gif" width="100" />
+  <img src="https://media1.tenor.com/m/7CVqgi1IM7sAAAAd/breaking-bad-walter-white.gif" width="500" />
 
   <h1>ThatDott</h1>
   <code>(2nd-Year BSCS, Aspiring Software Developer)</code>
@@ -41,7 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ThatDott&theme=transparent&card_height=150&show_icons=true&hide_border=false&hide_title=true&ring_color=ffffff&icon_color=ffffff&text_color=ffffff" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ThatDott&theme=transparent&border_radius=4.6&card_width=466&card_height=150&stroke=EBEBEB&ring=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&fire=EB8E00&sideNums=EBEBEB&dates=EBEBEB&border=EBEBEB&excludeDaysLabel=EBEBEB" />
-
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatdott&layout=compact&theme=transparent&border_radius=4.6&card_width=466&card_height=150&stroke=EBEBEB&ring=EBEBEB&title_color=FFFFFF&text_color=FFFFFF"/>
   <br><br>
 
   <!-- Socials -->
