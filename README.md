@@ -7,8 +7,6 @@
 
   <br>
 
-  <p>Wassup dawg!</p>
-
   <h3>My Skillset:</h3>
 
   <!-- Languages -->
