@@ -2,9 +2,9 @@
 
   <img src="https://media.tenor.com/cpmCB81UfgAAAAAi/psyduck.gif" width="300" />
 
-  <h1>ThatDott</h1>
+  <h1>Hi, I'm Justin 👋</h1>
 
-  <code>(2nd-Year BSCS, Aspiring Software Developer)</code>
+  <code>(3rd-Year BSCS, Aspiring Software Developer)</code>
 
   <br>
 
