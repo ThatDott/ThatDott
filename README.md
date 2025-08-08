@@ -3,6 +3,7 @@
   <img src="https://media.tenor.com/cpmCB81UfgAAAAAi/psyduck.gif" width="300" />
 
   <h1>ThatDott</h1>
+
   <code>(2nd-Year BSCS, Aspiring Software Developer)</code>
 
   <br>
@@ -10,29 +11,31 @@
   <h3>My Skillset:</h3>
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-  
-  <br>
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite" />
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-CockroachDB-black?style=flat-square&logo=cockroachdb" />
-  <img src="https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=sqlalchemy" />
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/-Alembic-black?style=flat-square&logo=alembic" />
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-web-services" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript" />
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c" />
+<img src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5" />
+<img src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3" />
+
+<br>
+<!-- Frameworks & Tools -->
+<img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=vite" />
+<img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql" />
+<img src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb" />
+<img src="https://img.shields.io/badge/-CockroachDB-000000?style=flat-square&logo=cockroachdb" />
+<img src="https://img.shields.io/badge/-SQLAlchemy-000000?style=flat-square&logo=sqlalchemy" />
+
+<br>
+
+<img src="https://img.shields.io/badge/-Alembic-000000?style=flat-square&logo=alembic" />
+<img src="https://img.shields.io/badge/-Amazon%20AWS-000000?style=flat-square&logo=amazon-web-services" />
+<img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker" />
+
+
  
   <br><br>
   <!-- GitHub Stats -->
