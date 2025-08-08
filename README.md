@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.tenor.com/cpmCB81UfgAAAAAi/psyduck.gif" width="500" />
+  <img src="https://media.tenor.com/cpmCB81UfgAAAAAi/psyduck.gif" width="300" />
 
   <h1>ThatDott</h1>
   <code>(2nd-Year BSCS, Aspiring Software Developer)</code>
