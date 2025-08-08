@@ -4,11 +4,12 @@
 
   <h1></h1>
 
+  <code>Justin Veloso</code>
   <code>(3rd-Year BSCS, Aspiring Software Developer)</code>
 
   <br>
 
-  <h3>My Skillset:</h3>
+  <h3>Skillset:</h3>
 
   <!-- Languages -->
 <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript" />
