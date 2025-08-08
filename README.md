@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media1.tenor.com/m/7CVqgi1IM7sAAAAd/breaking-bad-walter-white.gif" width="500" />
+  <img src="https://media.tenor.com/cpmCB81UfgAAAAAi/psyduck.gif" width="500" />
 
   <h1>ThatDott</h1>
   <code>(2nd-Year BSCS, Aspiring Software Developer)</code>
