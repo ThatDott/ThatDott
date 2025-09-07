@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://media.tenor.com/GqKrjNyIJrMAAAAi/duck.gif" width="150" />
-
   <code>Justin Veloso</code>
   <code>(3rd-Year BSCS, Aspiring Software Developer)</code>
+
+  <img src="https://media.tenor.com/GqKrjNyIJrMAAAAi/duck.gif" width="150" />
 
   <br>
 
@@ -41,21 +41,5 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ThatDott&background=000000&border_radius=4.6&card_width=466&card_height=150&stroke=120d00&ring=ffd65c&currStreakNum=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&fire=ffcf40&sideNums=ffffff&dates=ffffff&border=EBEBEB&excludeDaysLabel=EBEBEB" />
   <br><br>
-
-  <h3>Links:</h3>
-
-  <!-- Socials -->
-  <a href="https://www.linkedin.com/in/justin-veloso-21395b27b/">
-    <img src="https://img.shields.io/badge/-justinveloso-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/thatdot44/">
-    <img src="https://img.shields.io/badge/-justinveloso-darkblue?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/dotveloso">
-    <img src="https://img.shields.io/badge/-dotveloso-purple?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:justinsanveloso@gmail.com">
-    <img src="https://img.shields.io/badge/-justinsanveloso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-
+  
 </div>
