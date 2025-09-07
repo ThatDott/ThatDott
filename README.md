@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.tenor.com/GqKrjNyIJrMAAAAi/duck.gif" width="300" height="330" />
+  <img src="https://media.tenor.com/GqKrjNyIJrMAAAAi/duck.gif" width="150" />
 
   <code>Justin Veloso</code>
   <code>(3rd-Year BSCS, Aspiring Software Developer)</code>
