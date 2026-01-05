@@ -37,9 +37,6 @@
   <h3>Stats:</h3>
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ThatDott&bg_color=000000&card_height=150&show_icons=true&hide_border=false&hide_title=true&ring_color=ffd65c&icon_color=ffd65c&text_color=FFFFFF" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThatDott&background=000000&border_radius=4.6&card_width=466&card_height=150&stroke=120d00&ring=ffd65c&currStreakNum=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&fire=ffcf40&sideNums=ffffff&dates=ffffff&border=EBEBEB&excludeDaysLabel=EBEBEB" />
-  <br><br>
+  <img src="https://github-readme-stats-zeta-eight-92.vercel.app/api?username=ThatDott&bg_color=000000&card_height=150&show_icons=true&hide_border=false&hide_title=true&ring_color=ffd65c&icon_color=ffd65c&text_color=FFFFFF" />
   
 </div>
