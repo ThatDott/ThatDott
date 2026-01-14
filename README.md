@@ -11,7 +11,7 @@
   <br>
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-zeta-eight-92.vercel.app/api?username=ThatDott&bg_color=00000055&card_height=150&show_icons=true&hide_border=false&hide_title=true&ring_color=ffd65c&icon_color=ffd65c&text_color=FFFFFF" />
+  <img src="https://github-readme-stats-zeta-eight-92.vercel.app/api?username=ThatDott&bg_color=222222ff&card_height=150&show_icons=true&hide_border=false&hide_title=true&ring_color=ffd65c&icon_color=ffd65c&text_color=FFFFFF" />
 
   <br>
   <br>
